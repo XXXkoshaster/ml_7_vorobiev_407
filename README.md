@@ -38,4 +38,5 @@ python -c 'from data_setup import load_spambase, load_sml2010; print([part.shape
 | `results/` | CSV с результатами лабораторных |
 | [`docs/`](docs/README.md) | ТЗ, структура ноутбуков и рабочий процесс |
 
-Готова [ЛР1: KNN](notebooks/01_knn.ipynb) и её [таблица метрик](results/lab01.csv). Остальные ноутбуки будут добавлены по мере выполнения.
+- [ЛР1: KNN](notebooks/01_knn.ipynb) — [метрики](results/lab01.csv)
+- [ЛР2: логистическая и линейная регрессии](notebooks/02_regressions.ipynb) — [метрики](results/lab02.csv)
