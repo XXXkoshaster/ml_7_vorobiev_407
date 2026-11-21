@@ -38,4 +38,4 @@ python -c 'from data_setup import load_spambase, load_sml2010; print([part.shape
 | `results/` | CSV с результатами лабораторных |
 | [`docs/`](docs/README.md) | ТЗ, структура ноутбуков и рабочий процесс |
 
-Каркас готов к проверке; ноутбуки появятся в отдельных ветках лабораторных.
+Готова [ЛР1: KNN](notebooks/01_knn.ipynb) и её [таблица метрик](results/lab01.csv). Остальные ноутбуки будут добавлены по мере выполнения.
