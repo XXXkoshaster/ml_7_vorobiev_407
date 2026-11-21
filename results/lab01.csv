@@ -1,0 +1,9 @@
+lab,task,algorithm,variant,f1_macro,accuracy,mae,rmse
+1,classification,KNN,sklearn_base,0.77432916,0.78596908,,
+1,classification,KNN,sklearn_improved,0.91290802,0.91676576,,
+1,classification,KNN,custom_base,0.77432916,0.78596908,,
+1,classification,KNN,custom_improved,0.91290802,0.91676576,,
+1,regression,KNN,sklearn_base,,,3.10287615,3.72781076
+1,regression,KNN,sklearn_improved,,,1.29833515,1.64946138
+1,regression,KNN,custom_base,,,3.10287615,3.72781076
+1,regression,KNN,custom_improved,,,1.29833515,1.64946138
