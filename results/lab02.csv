@@ -1,0 +1,9 @@
+lab,task,algorithm,variant,f1_macro,accuracy,mae,rmse
+2,classification,LogisticRegression,sklearn_base,0.92061825,0.92390012,,
+2,classification,LogisticRegression,sklearn_improved,0.92557961,0.92865636,,
+2,classification,LogisticRegression,custom_base,0.92181904,0.92508918,,
+2,classification,LogisticRegression,custom_improved,0.91933711,0.92271106,,
+2,regression,LinearRegression,sklearn_base,,,0.02073219,0.02841112
+2,regression,LinearRegression,sklearn_improved,,,0.02073219,0.02841112
+2,regression,LinearRegression,custom_base,,,0.02073219,0.02841112
+2,regression,LinearRegression,custom_improved,,,0.02073219,0.02841112
