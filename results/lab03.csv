@@ -1,0 +1,9 @@
+lab,task,algorithm,variant,f1_macro,accuracy,mae,rmse
+3,classification,DecisionTree,sklearn_base,0.91925466,0.92271106,,
+3,classification,DecisionTree,sklearn_improved,0.92768487,0.93103448,,
+3,classification,DecisionTree,custom_base,0.91437324,0.91795482,,
+3,classification,DecisionTree,custom_improved,0.92639845,0.92984542,,
+3,regression,DecisionTree,sklearn_base,,,0.33143182,0.72296727
+3,regression,DecisionTree,sklearn_improved,,,0.31618269,0.69528184
+3,regression,DecisionTree,custom_base,,,0.32388606,0.71678699
+3,regression,DecisionTree,custom_improved,,,0.32356315,0.71668116

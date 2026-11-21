@@ -40,3 +40,4 @@ python -c 'from data_setup import load_spambase, load_sml2010; print([part.shape
 
 - [ЛР1: KNN](notebooks/01_knn.ipynb) — [метрики](results/lab01.csv)
 - [ЛР2: логистическая и линейная регрессии](notebooks/02_regressions.ipynb) — [метрики](results/lab02.csv)
+- [ЛР3: решающее дерево](notebooks/03_decision_tree.ipynb) — [метрики](results/lab03.csv)
