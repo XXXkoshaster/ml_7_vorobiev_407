@@ -1,5 +1,3 @@
-"""Общие данные и разбиения для ЛР1–5."""
-
 from io import TextIOWrapper
 from pathlib import Path
 from zipfile import ZipFile
