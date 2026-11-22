@@ -1,0 +1,9 @@
+lab,task,algorithm,variant,f1_macro,accuracy,mae,rmse
+5,classification,GradientBoosting,sklearn_base,0.94276813,0.94530321,,
+5,classification,GradientBoosting,sklearn_improved,0.94276813,0.94530321,,
+5,classification,GradientBoosting,custom_base,0.91454989,0.91914388,,
+5,classification,GradientBoosting,custom_improved,0.91454989,0.91914388,,
+5,regression,GradientBoosting,sklearn_base,,,0.30968841,0.68566652
+5,regression,GradientBoosting,sklearn_improved,,,0.30968841,0.68566652
+5,regression,GradientBoosting,custom_base,,,0.30981124,0.68488155
+5,regression,GradientBoosting,custom_improved,,,0.30981124,0.68488155
