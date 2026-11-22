@@ -28,7 +28,7 @@ python -c 'from data_setup import load_spambase, load_sml2010; print([part.shape
 
 ## Порядок работы
 
-После добавления ноутбуков откройте их в JupyterLab и выполните сверху вниз: сначала `01_knn.ipynb` — `05_gradient_boosting.ipynb` по порядку, затем `06_summary.ipynb`. Лабораторные сохраняют метрики в `results/`, а итоговый ноутбук читает эти CSV и не переобучает модели.
+Откройте ноутбуки в JupyterLab и выполните сверху вниз: сначала `01_knn.ipynb` — `05_gradient_boosting.ipynb` по порядку, затем `06_summary.ipynb`. Лабораторные сохраняют метрики в `results/`, а итоговый ноутбук читает эти CSV и не переобучает модели.
 
 | Путь | Содержимое |
 |---|---|
@@ -43,3 +43,4 @@ python -c 'from data_setup import load_spambase, load_sml2010; print([part.shape
 - [ЛР3: решающее дерево](notebooks/03_decision_tree.ipynb) — [метрики](results/lab03.csv)
 - [ЛР4: случайный лес](notebooks/04_random_forest.ipynb) — [метрики](results/lab04.csv)
 - [ЛР5: градиентный бустинг](notebooks/05_gradient_boosting.ipynb) — [метрики](results/lab05.csv)
+- [Итоговое сравнение ЛР1–5](notebooks/06_summary.ipynb)
